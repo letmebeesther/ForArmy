@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_24dp"
+        android:title="home" />
+
+    <item
+        android:id="@+id/event"
+        android:icon="@drawable/event_24dp"
+        android:title="ticket" />
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/favorite_24dp"
+        android:title="my" />
+
+    <item
+        android:id="@+id/shop"
+        android:icon="@drawable/shopping_bag_24dp"
+        android:title="shop" />
+
+    <item
+        android:id="@+id/member"
+        android:icon="@drawable/member"
+        android:title="member" />
+
+</menu>
